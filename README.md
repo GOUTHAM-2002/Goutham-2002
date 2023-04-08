@@ -1,4 +1,4 @@
-![logo](https://github.com/MilderBronze/MilderBronze/blob/main/Dark%20Blue%20Modern%20Company%20Personal%20Profile%20LinkedIn%20Banner%20(1500%20%C3%97%20500%20px).png)
+![logo]https://github.com/GOUTHAM-2002/Goutham-2002/blob/main/banner.png
 <h1 align="center">Hi 👋, I'm Goutham. Let's Cheers</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
