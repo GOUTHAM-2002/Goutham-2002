@@ -1,4 +1,6 @@
-![Header](./[https://github.com/GOUTHAM-2002/Goutham-2002/blob/main/github-header-image.png])
+<h1 align="center">
+ <img src="https://github.com/GOUTHAM-2002/Goutham-2002/blob/main/github-header-image.png" />
+</h1>
 <h1 align="center">Hi 👋, I'm Goutham. Let's Cheers</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
