@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **developing my skills**
 
-- 🌱 I’m currently learning **HTML, CSS, JS**
+- 🌱 I’m currently learning **Python,django and Networking **
 
-- 💬 Ask me about **CSS Frameworks**
+- 💬 Ask me about **Data structures and Algorithms too**
 
 - 📫 How to reach me **goutham3336@gmail.com**
 
