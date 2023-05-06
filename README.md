@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Python,django and Networking **
 
-- 💬 Ask me about **Data structures and Algorithms too**
+- 💬 Ask me about **Data structures and Algorithms too **
 
 - 📫 How to reach me **goutham3336@gmail.com**
 
