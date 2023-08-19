@@ -1,8 +1,8 @@
 <h1 align="center">
  <img src="https://github.com/GOUTHAM-2002/Goutham-2002/blob/main/github-header-image.png" />
 </h1>
-<h1 align="center">Hi 👋, I'm Goutham. Let's Cheers</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Goutham. Sometimes I'm rude</h1>
+<h3 align="center">A passionate frontend developer from India. Kidding, I hate frontend, I do backend and learn Frontend coz im better at that too </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goutham-2002&label=Profile%20views&color=0e75b6&style=flat" alt="goutham-2002" /> </p>
 
