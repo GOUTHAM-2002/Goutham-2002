@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **developing my skills**
 
-- 🌱 I’m currently learning **Python,django and Networking **
+- 🌱 I’m currently learning **Python,django,Flutter. **
 
 - 💬 Ask me about **Data structures and Algorithms too **
 
