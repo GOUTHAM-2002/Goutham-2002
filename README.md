@@ -1,8 +1,8 @@
 <h1 align="center">
  <img src="https://github.com/GOUTHAM-2002/Goutham-2002/blob/main/github-header-image.png" />
 </h1>
-<h1 align="center">Hi 👋, I'm Goutham. Sometimes I'm rude</h1>
-<h3 align="center">A passionate frontend developer from India. Kidding, I hate frontend, I do backend and learn Frontend coz im better at that too </h3>
+<h1 align="center">Hey there 👋, I'm Goutham.</h1>
+<h3 align="center">A passionate techie from India. I want to discern and get into basics on how tech stacks work </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goutham-2002&label=Profile%20views&color=0e75b6&style=flat" alt="goutham-2002" /> </p>
 
@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on **developing my skills**
 
-- 🌱 I’m currently learning **Python,django,Flutter. **
+- 🌱 I’m currently learning **Python,django,Flutter,tenserflow,pytorch. **
 
 - 💬 Ask me about **Data structures and Algorithms too **
 
 - 📫 How to reach me **goutham3336@gmail.com**
 
-- ⚡ Fun fact **My gmail is Meowbow@gmail.com.**
+- ⚡ Fun fact **I run my own startup called skynect**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
