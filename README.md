@@ -1,6 +1,3 @@
-<h1 align="center">
- <img src="https://github.com/GOUTHAM-2002/Goutham-2002/blob/main/github-header-image.png" />
-</h1>
 <h1 align="center">Hey there 👋, I'm Goutham.</h1>
 <h3 align="center">A passionate techie from India. I want to discern and get into basics on how tech stacks work </h3>
 
