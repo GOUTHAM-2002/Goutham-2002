@@ -1,10 +1,10 @@
 # 💫 About Me:
 🔭 I'm an **AI researcher at Dartmouth College** working on **mechanistic interpretability and AI safety for large language models**. <br><br>
-🧠 My research focuses on understanding **how internal model representations drive behavior** — especially under prompt framing, alignment interventions, and safety-critical settings. I’m particularly interested in hallucinations, robustness, interpretability, and the gap between what models know and what they actually say. <br><br>
+🧠 My research focuses on understanding **how internal model representations drive behavior** especially under prompt framing, alignment interventions, and safety critical settings. I’m particularly interested in hallucinations, robustness, interpretability, and the gap between what models know and what they actually say. <br><br>
 📄 My current work includes research on **framing-induced hallucinations in LLMs** and **task-conditioned activation topology as a lens for cognitive structure in language models**. I also build evaluation pipelines for studying behavioral stability, calibration drift, and robustness across alignment settings. <br><br>
 🏛️ I'm pursuing an **M.S. in Computer Science (AI Track) at Dartmouth College** in the **Minds, Machines & Society Lab**, advised by **Prof. Soroush Vosoughi**. I’m supported by the **AMD AI Pervasive Research Scholarship**. <br><br>
 🔬 In **Summer 2026**, I will be a **Visiting Research Collaborator** with **OPTML Lab / MIT-IBM Watson AI Lab**, working on how optimizer choice affects the robustness of **LLM unlearning**. <br><br>
-💬 Ask me about **mechanistic interpretability, LLM hallucinations, AI safety, robustness evaluation, targeted fine-tuning, and interpretability methods for transformers**. <br><br>
+💬 Ask me about **mechanistic interpretability, LLM hallucinations, AI safety, robustness evaluation, targeted fine tuning, and interpretability methods for transformers**. <br><br>
 📫 How to reach me: **goutham.nalagatla.gr@dartmouth.edu** <br><br>
 ⚡ Fun fact: one of my research threads started from a simple question — whether LLMs show something like cognitive duality — and turned into a full interpretability project.
 
